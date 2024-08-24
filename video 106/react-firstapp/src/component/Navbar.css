@@ -1,0 +1,22 @@
+nav, ul{
+    display: flex;
+    top: 0px;
+}
+.fir{
+    top: 0px;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    gap: 34px;
+}
+
+nav{
+    background-color: beige;
+    color: black;
+    padding: 23px;
+}
